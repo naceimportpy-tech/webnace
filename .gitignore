@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.env
+*.log
+# OS files
+ehthumbs.db
+Desktop.ini
+
+# Build
+dist/
+build/
+
+# IDE
+.idea/
